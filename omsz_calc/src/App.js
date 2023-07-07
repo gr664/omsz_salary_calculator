@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Ez a webApp az OMSZ kivonuló - Edit <code>src/App.js</code> and save to reload.
+          Ez egy NEM HIVATALOS webApp, ami az OMSZ kivonuló állományának készült egy hobbi project keretében!
+          A dolgozott műszakok megadása után a program kiszámolja a bruttó fizetés nagyságát.
         </p>
         <a
           className="App-link"
