@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/omsz_salary_calculator/static/css/main.073c9b0a.css",
-    "main.js": "/omsz_salary_calculator/static/js/main.a4df8e3e.js",
+    "main.js": "/omsz_salary_calculator/static/js/main.c9476de7.js",
     "static/js/787.e571f42e.chunk.js": "/omsz_salary_calculator/static/js/787.e571f42e.chunk.js",
     "static/media/logo.svg": "/omsz_salary_calculator/static/media/logo.384ebcc3e38eecee8a7f7e221e0e983b.svg",
     "index.html": "/omsz_salary_calculator/index.html",
     "main.073c9b0a.css.map": "/omsz_salary_calculator/static/css/main.073c9b0a.css.map",
-    "main.a4df8e3e.js.map": "/omsz_salary_calculator/static/js/main.a4df8e3e.js.map",
+    "main.c9476de7.js.map": "/omsz_salary_calculator/static/js/main.c9476de7.js.map",
     "787.e571f42e.chunk.js.map": "/omsz_salary_calculator/static/js/787.e571f42e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a4df8e3e.js"
+    "static/js/main.c9476de7.js"
   ]
 }
