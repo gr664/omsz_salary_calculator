@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './1574.svg';
 import './App.css';
 
 function App() {
@@ -9,6 +9,7 @@ function App() {
         <p>
           Ez egy NEM HIVATALOS webApp, ami az OMSZ kivonuló állományának készítettem.
           A dolgozott műszakok megadása után a program kiszámolja a bruttó fizetésed nagyságát.
+          Ha hibát észlelsz, szólj nekem!
         </p>
         <a
           className="App-link"
