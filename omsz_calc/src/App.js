@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './1574.svg';
 import './App.css';
 
 function App() {
@@ -19,6 +19,9 @@ function App() {
           Kiszámolom a fizetésem
         </a>
       </header>
+      <footer>
+      <a href="https://www.freepik.com/free-vector/prints-eagle_10704782.htm#query=eagle%20svg&position=2&from_view=keyword&track=ais">Image by macrovector</a> on Freepik
+      </footer>
     </div>
   );
 }
