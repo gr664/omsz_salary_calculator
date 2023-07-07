@@ -1,4 +1,4 @@
-import logo from './1574.svg';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
         </a>
       </header>
       <footer>
-      <a href="https://www.freepik.com/free-vector/prints-eagle_10704782.htm#query=eagle%20svg&position=2&from_view=keyword&track=ais">Image by macrovector</a> on Freepik
+      Icon by <a href="https://freeicons.io/profile/350417">Barudak Lier</a> on <a href="https://freeicons.io">freeicons.io</a>
       </footer>
     </div>
   );
