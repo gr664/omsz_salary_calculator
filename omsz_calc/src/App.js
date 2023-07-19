@@ -14,11 +14,11 @@ function App() {
 		<Router>
 			<Navbar />
 			<Routes>
-				<Route exact path='/' exact element={<Home />} />
-				<Route path='/about' element={<About />} />
-				<Route path='/contact' element={<Contact />} />
-				<Route path='/blogs' element={<Blogs />} />
-				<Route path='/sign-up' element={<SignUp />} />
+				<Route exact path='/omsz_salary_calculator' exact element={<Home />} />
+				<Route path='/omsz_salary_calculator/about' element={<About />} />
+				<Route path='/omsz_salary_calculator/contact' element={<Contact />} />
+				<Route path='/omsz_salary_calculator/blogs' element={<Blogs />} />
+				<Route path='/omsz_salary_calculator/sign-up' element={<SignUp />} />
 			</Routes>
 		</Router>
 	);

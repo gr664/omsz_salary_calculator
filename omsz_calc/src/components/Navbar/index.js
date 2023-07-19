@@ -7,16 +7,16 @@ const Navbar = () => {
 		<>
 			<Nav>
 				<NavMenu>
-					<NavLink to="/about" activeStyle>
+					<NavLink to="/omsz_salary_calculator/about" activeStyle>
 						About
 					</NavLink>
-					<NavLink to="/contact" activeStyle>
+					<NavLink to="/omsz_salary_calculator/contact" activeStyle>
 						Contact Us
 					</NavLink>
-					<NavLink to="/blogs" activeStyle>
+					<NavLink to="/omsz_salary_calculator/blogs" activeStyle>
 						Blogs
 					</NavLink>
-					<NavLink to="/sign-up" activeStyle>
+					<NavLink to="/omsz_salary_calculator/sign-up" activeStyle>
 						Sign Up
 					</NavLink>
 				</NavMenu>
