@@ -5,9 +5,8 @@ import { BrowserRouter as Router, Routes, Route }
 	from 'react-router-dom';
 import Home from './pages';
 import About from './pages/about';
-import Blogs from './pages/newshift';
-import SignUp from './pages/signup';
-import Contact from './pages/shifts';
+import NewShift from './pages/newshift';
+import Shifts from './pages/shifts';
 
 function App() {
 	return (
