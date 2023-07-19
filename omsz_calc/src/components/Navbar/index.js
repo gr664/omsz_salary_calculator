@@ -7,17 +7,17 @@ const Navbar = () => {
 		<>
 			<Nav>
 				<NavMenu>
+					<NavLink to="/omsz_salary_calculator/home" activeStyle>
+						Home
+					</NavLink>
 					<NavLink to="/omsz_salary_calculator/about" activeStyle>
 						About
 					</NavLink>
-					<NavLink to="/omsz_salary_calculator/contact" activeStyle>
-						Contact Us
+					<NavLink to="/omsz_salary_calculator/shifts" activeStyle>
+						Shifts
 					</NavLink>
-					<NavLink to="/omsz_salary_calculator/blogs" activeStyle>
-						Blogs
-					</NavLink>
-					<NavLink to="/omsz_salary_calculator/sign-up" activeStyle>
-						Sign Up
+					<NavLink to="/omsz_salary_calculator/newshift" activeStyle>
+						NewShift
 					</NavLink>
 				</NavMenu>
 			</Nav>
